@@ -1,6 +1,6 @@
 # Helpscout Daily Summary Mail Script
 
-This is a ruby script to send a daily summary of the ticked to the support team
+This is a ruby script to send a daily summary of the tickets to your support team.
 
 The script uses the helpscout api to get the info and mailgun to send the email to your support team and boss 
 
