@@ -2,7 +2,11 @@
 
 This is a ruby script to send a daily summary of the tickets to your support team.
 
-The script uses the helpscout api to get the info and mailgun to send the email to your support team and boss 
+The script uses the helpscout api to get the info and mailgun to send the email to your support team and boss
+
+This script uses a sligtly modified version of the helpscout ruby gem, so we can get conversations by tag:
+
+https://github.com/sieroaoj/helpscout/tree/add_tags
 
 ## Usage
 
