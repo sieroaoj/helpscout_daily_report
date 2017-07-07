@@ -1,5 +1,5 @@
 require 'helpscout'
-require 'rest_client'
+require 'rest_client'  # using this modified version https://github.com/sieroaoj/helpscout/tree/add_tags
 
 #day_string=Date.today.prev_day.strftime("%Y-%m-%d")
 day_string=Date.today.strftime("%Y-%m-%d")
